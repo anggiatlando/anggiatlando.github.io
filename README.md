@@ -21,7 +21,7 @@
 						<h1><br />
 						</h1>
 						<p>WELCOME TO MY FIRST BLOG<a href="https://twitter.com/ajlkn"></a><a href="https://html5up.net"></a><br />
-						</a>.</p>
+						</p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
