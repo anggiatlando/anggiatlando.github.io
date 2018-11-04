@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <!--
 	Massively by HTML5 UP
 	html5up.net | @ajlkn
@@ -21,7 +20,7 @@
 					<div id="intro">
 						<h1><br />
 						</h1>
-						<p>information about airdrop & bounty that has entered the market exchange<a href="https://twitter.com/ajlkn"></a><a href="https://html5up.net"></a><br />
+						<p>WELCOME TO MY FIRST BLOG<a href="https://twitter.com/ajlkn"></a><a href="https://html5up.net"></a><br />
 						</a>.</p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
@@ -194,7 +193,7 @@
 							</section>
 							<section>
 								<h3>Email</h3>
-								<p><a href="#">admin@airdropupdate.ooo</a></p>
+								<p><a href="#">anggiatlando@gmail.com</a></p>
 							</section>
 							<section>
 								<h3>Social</h3>
