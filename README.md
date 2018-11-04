@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Airdrop Update.ooo</title>
+		<title>Anggiatlando.github.io</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -20,7 +20,7 @@
 				<!-- Intro -->
 					<div id="intro">
 						<h1><br />
-						Airdrop Update</h1>
+						</h1>
 						<p>information about airdrop & bounty that has entered the market exchange<a href="https://twitter.com/ajlkn"></a><a href="https://html5up.net"></a><br />
 						</a>.</p>
 						<ul class="actions">
@@ -30,7 +30,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<a href="index.html" class="logo">AirdropUpdate</a>
+						<a href="index.html" class="logo">Anggiat Lando</a>
 					</header>
 
 				<!-- Nav -->
